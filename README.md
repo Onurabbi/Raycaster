@@ -25,10 +25,9 @@ https://www.libsdl.org/projects/SDL_image/
 SDL2_ttf:
 https://www.libsdl.org/projects/SDL_ttf/
 
-something
 
 # Screenshots
 
-![ScreenShot1](/screenshots/ss1.png) ![ScreenShot2](/screenshots/ss2.png)
-![ScreenShot3](/screenshots/ss3.png)
+![](/screenshots/ss1.png) ![](/screenshots/ss2.png)
+![](/screenshots/ss3.png)
 
